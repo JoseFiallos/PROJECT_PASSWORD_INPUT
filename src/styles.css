@@ -67,3 +67,35 @@ body{
     align-items: center;
     margin-top: 3px;
 }
+
+.stregth-label {
+    font-size: 12px;
+    margin-left: 10px;
+}
+
+.strength-percent {
+    flex: 1;
+    height: 5px;
+    border-radius: 10px;
+    display: block;
+    background: #eee;
+}
+
+.strength-percent span {
+    display: block;
+    height: 100%;
+    transition: all 4.0s;
+    border-radius: 30px;
+}
+.weak{
+    background: red;
+    width: 33%;
+}
+.average {
+    background: #ffd000;
+    width: 66%;
+}
+.strong {
+    background: green;
+    width: 100%;    
+}
