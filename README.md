@@ -1,4 +1,5 @@
 # PROJECT_PASSWORD_INPUT
+![index](https://user-images.githubusercontent.com/91218872/177675762-6cb2840d-3dd5-4188-a478-a760b4e3642b.png)
 
 ## This project is made to help people verify their passwords and make sure they are secure. It can be used for anything from a website to a mobile app.
 
