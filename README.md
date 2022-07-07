@@ -13,4 +13,4 @@
 
 ## This project is useful for people who want to make sure their passwords are secure. It can also be useful for developers.
 
-## Translated with www.DeepL.com/Translator (free version)
+
